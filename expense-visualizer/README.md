@@ -86,9 +86,8 @@ When a spending limit is set, the balance card shows a message based on how much
 ## 🌐 Live Demo
 
 Deployed via GitHub Pages:
-**[https://your-username.github.io/expense-visualizer](https://your-username.github.io/expense-visualizer)**
+**[https://argaindrawan.github.io/expense-visualizer](https://argaindrawan.github.io/expense-visualizer)**
 
-> Replace the link above with your actual GitHub Pages URL after deploying.
 
 ---
 
